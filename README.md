@@ -1,6 +1,6 @@
-# 🚀 Kişisel Portfolyo Sitesi
+# 🚀 Mert Çelik - Portfolio Website
 
-Modern ve responsive bir portfolyo sitesi. GitHub Pages ile ücretsiz barındırılabilir.
+Modern ve responsive kişisel portfolyo sitesi. .NET Developer olarak profesyonel profilimi ve çalışmalarımı sergiliyor.
 
 ## 📁 Dosya Yapısı
 
@@ -48,17 +48,19 @@ git push -u origin main
 - Eğer repo adı `kullanici-adi.github.io` ise: `https://kullanici-adi.github.io`
 - Diğer repo adları için: `https://kullanici-adi.github.io/repo-adi`
 
-## ✏️ Özelleştirme
+## ✏️ Yapılan Özelleştirmeler
 
-### Kişisel Bilgileri Değiştir
-`index.html` dosyasında şunları güncelle:
-- "Ad Soyad" → Kendi adın
-- "email@example.com" → E-posta adresin
-- Sosyal medya linkleri
-- Proje açıklamaları ve linkleri
+`index.html` dosyasında aşağıdaki kişiselleştirmeler yapılmıştır:
+- ✅ Kişisel bilgiler güncellendi (Mert Çelik, .NET Developer)
+- ✅ Email: mertcelik.dev@gmail.com
+- ✅ Sosyal medya linkleri eklendi (GitHub, LinkedIn)
+- ✅ Gerçek projeler eklendi (Hospital Management System, Java Projects, Minesweeper)
+- ✅ Yetenekler bölümü güncellendi (.NET, C#, Java, SQL Server, vb.)
+- ✅ SEO meta tagları eklendi
 
-### Renkleri Değiştir
-`style.css` dosyasında ana renkleri bul ve değiştir:
+### Ek Özelleştirmeler İçin
+
+Renkleri değiştirmek isterseniz `style.css` dosyasında ana renkleri bulup değiştirebilirsiniz:
 - `#00d9ff` → Ana mavi renk
 - `#a855f7` → Mor vurgu rengi
 - `#1a1a2e` → Arkaplan rengi
